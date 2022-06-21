@@ -1,2 +1,3 @@
 Hello, this the first version.
 This is the master motified.
+This is the hot-fix modified.
